@@ -20,7 +20,7 @@
 - 🐦 Twitter: @Vamsi_i29 (https://x.com/Vamsi_i29)
 - 💼 LinkedIn: Korumilli_Sai_Vamsi (www.linkedin.com/in/vamsi-i29)
 - 🧑‍💻 Portfolio/Blog: [your-website.com](https://your-website.com)  
-- 💬 Telegram: [@yourtelegram](https://t.me/yourtelegram)
+- 💬 Telegram: [@Vamsii29] (https://t.me/Vamsii29)
 
 > "Keep exploring, keep building – the best is yet to come."
 
