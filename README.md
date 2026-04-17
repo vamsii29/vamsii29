@@ -147,6 +147,10 @@ IIEST Shibpur — Howrah, India
 [![Telegram](https://img.shields.io/badge/Telegram-0f0c29?style=for-the-badge&logo=telegram&logoColor=A78BFA)](https://t.me/Vamsii29)
 [![Website](https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=googlechrome&logoColor=A78BFA)](https://your-website.com)
 
+<br />
+
+📫 **Email:** [vamsi-i29@proton.me](mailto:vamsi-i29@proton.me) · 📱 **Phone:** +41 783244342
+
 > *If you're building something serious in security or blockchain — I'm worth talking to.*
 
 <br />
