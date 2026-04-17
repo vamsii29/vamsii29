@@ -55,36 +55,47 @@ I'm building the technical foundation deliberately — working across authentica
 
 <div align="center">
 
-**Core Languages & Frameworks**
-
+**1. Core Languages & Frameworks** <br />
 ![Python](https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=A78BFA)
+![Go](https://img.shields.io/badge/Go-0f0c29?style=for-the-badge&logo=go&logoColor=A78BFA)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f0c29?style=for-the-badge&logo=javascript&logoColor=A78BFA)
+![Solidity](https://img.shields.io/badge/Solidity-0f0c29?style=for-the-badge&logo=solidity&logoColor=A78BFA)
+<br />
 ![FastAPI](https://img.shields.io/badge/FastAPI-0f0c29?style=for-the-badge&logo=fastapi&logoColor=A78BFA)
-![SQL](https://img.shields.io/badge/SQL-0f0c29?style=for-the-badge&logo=postgresql&logoColor=A78BFA)
+![Hardhat](https://img.shields.io/badge/Hardhat-0f0c29?style=for-the-badge&logo=hardhat&logoColor=A78BFA)
 
-**Infrastructure & DevOps**
+<br />
 
+**2. Infrastructure & DevOps** <br />
 ![Docker](https://img.shields.io/badge/Docker-0f0c29?style=for-the-badge&logo=docker&logoColor=A78BFA)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0f0c29?style=for-the-badge&logo=githubactions&logoColor=A78BFA)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f0c29?style=for-the-badge&logo=postgresql&logoColor=A78BFA)
-![Redis](https://img.shields.io/badge/Redis-0f0c29?style=for-the-badge&logo=redis&logoColor=A78BFA)
+![SQLite](https://img.shields.io/badge/SQLite-0f0c29?style=for-the-badge&logo=sqlite&logoColor=A78BFA)
 
-**Tools & Platforms**
+<br />
 
+**3. Tools & Platforms** <br />
 ![Git](https://img.shields.io/badge/Git-0f0c29?style=for-the-badge&logo=git&logoColor=A78BFA)
 ![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=A78BFA)
 ![Linux](https://img.shields.io/badge/Linux-0f0c29?style=for-the-badge&logo=linux&logoColor=A78BFA)
+![VS Code](https://img.shields.io/badge/VS_Code-0f0c29?style=for-the-badge&logo=visualstudiocode&logoColor=A78BFA)
 ![REST API](https://img.shields.io/badge/REST_APIs-0f0c29?style=for-the-badge&logo=fastapi&logoColor=A78BFA)
 
-**Cybersecurity**
+<br />
 
-![CompTIA](https://img.shields.io/badge/CompTIA_Security%2B_(In_Progress)-0f0c29?style=for-the-badge&logo=comptia&logoColor=A78BFA)
-![Auth](https://img.shields.io/badge/Auth_%26_Authorization-0f0c29?style=for-the-badge&logo=auth0&logoColor=A78BFA)
+**4. Cybersecurity** <br />
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0f0c29?style=for-the-badge&logo=portswigger&logoColor=A78BFA)
+![Wireshark](https://img.shields.io/badge/Wireshark-0f0c29?style=for-the-badge&logo=wireshark&logoColor=A78BFA)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-0f0c29?style=for-the-badge&logo=owasp&logoColor=A78BFA)
 ![Cryptography](https://img.shields.io/badge/Cryptography-0f0c29?style=for-the-badge&logo=letsencrypt&logoColor=A78BFA)
+![Security+](https://img.shields.io/badge/Security%2B-0f0c29?style=for-the-badge&logo=comptia&logoColor=A78BFA)
 
-**Blockchain & Web3**
+<br />
 
-![Blockchain](https://img.shields.io/badge/Blockchain_Fundamentals-0f0c29?style=for-the-badge&logo=bitcoin&logoColor=A78BFA)
-![Decentralized](https://img.shields.io/badge/Decentralized_Systems-0f0c29?style=for-the-badge&logo=ethereum&logoColor=A78BFA)
-![Smart Contracts](https://img.shields.io/badge/Smart_Contract_Concepts-0f0c29?style=for-the-badge&logo=solidity&logoColor=A78BFA)
+**5. Blockchain & Web3** <br />
+![Blockchain Fundamentals](https://img.shields.io/badge/Blockchain_Core-0f0c29?style=for-the-badge&logo=bitcoin&logoColor=A78BFA)
+![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-0f0c29?style=for-the-badge&logo=ethereum&logoColor=A78BFA)
+![Web3 Interface](https://img.shields.io/badge/Web3.js_%2F_Ethers.js-0f0c29?style=for-the-badge&logo=web3dotjs&logoColor=A78BFA)
 
 </div>
 
@@ -148,7 +159,7 @@ IIEST Shibpur — Howrah, India
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamsi-i29)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=ffffff&logoSize=auto)](https://www.linkedin.com/in/vamsi-i29)
 [![X / Twitter](https://img.shields.io/badge/X_Twitter-0f0c29?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Vamsi_i29)
 [![Telegram](https://img.shields.io/badge/Telegram-0f0c29?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vamsii29)
 [![Website](https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-website.com)
@@ -208,12 +219,11 @@ Ich studiere aktuell **M.Sc. Informatik** an der **Universität Bern**. Mein Sch
 
 | Bereich | Technologien |
 |---|---|
-| **Sprachen** | Python, SQL |
-| **Frameworks & Libraries** | FastAPI |
-| **Infrastruktur & DevOps** | Docker, PostgreSQL, Redis |
-| **Tools & Plattformen** | Git, GitHub, Linux, REST APIs |
-| **Cybersecurity** | CompTIA Security+ (In Progress), Auth & Authorization, Cryptography |
-| **Blockchain & Web3** | Blockchain Fundamentals, Decentralized Systems, Smart Contract Concepts |
+| **1. Programmiersprachen & Frameworks** | Python, Go, JavaScript, Solidity <br> FastAPI, Hardhat |
+| **2. Infrastruktur & DevOps** | Docker, GitHub Actions, PostgreSQL, SQLite |
+| **3. Tools & Plattformen** | Git, GitHub, Linux, VS Code, REST APIs |
+| **4. Cybersecurity** | Burp Suite, Wireshark, OWASP ZAP, Cryptography, Security+ |
+| **5. Blockchain & Web3** | Blockchain Core, Smart Contracts, Web3.js / Ethers.js |
 
 ---
 
@@ -279,7 +289,7 @@ Ich studiere aktuell **M.Sc. Informatik** an der **Universität Bern**. Mein Sch
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamsi-i29)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=ffffff&logoSize=auto)](https://www.linkedin.com/in/vamsi-i29)
 [![X / Twitter](https://img.shields.io/badge/X_Twitter-0f0c29?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Vamsi_i29)
 [![Telegram](https://img.shields.io/badge/Telegram-0f0c29?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vamsii29)
 [![Website](https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-website.com)
