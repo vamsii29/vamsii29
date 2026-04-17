@@ -166,7 +166,7 @@ IIEST Shibpur — Howrah, India
 
 <br />
 
-📫 **Email:** [vamsi-i29@proton.me](mailto:vamsi-i29@proton.me) · 📱 **Phone:** +41 783244342
+✉️ **Email:** [vamsi-i29@proton.me](mailto:vamsi-i29@proton.me) · 📱 **Phone:** +41 783244342
 
 > *If you're building something serious in security or blockchain — I'm worth talking to.*
 
@@ -296,7 +296,7 @@ Ich studiere aktuell **M.Sc. Informatik** an der **Universität Bern**. Mein Sch
 
 <br />
 
-📫 **E-Mail:** [vamsi-i29@proton.me](mailto:vamsi-i29@proton.me) · 📱 **Mobil:** +41 783244342
+✉️ **E-Mail:** [vamsi-i29@proton.me](mailto:vamsi-i29@proton.me) · 📱 **Mobil:** +41 783244342
 
 > *Wenn du etwas Ernsthaftes in Security oder Blockchain aufbaust — ich bin der richtige Ansprechpartner.*
 
