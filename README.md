@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- Dynamic header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29%2C50:302b63%2C100:24243e&height=200&section=header&text=KSV&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Security%20Engineer%20%7C%20Cybersecurity%20%26%20Blockchain&descColor=a78bfa&descSize=20&descAlignY=58&animation=fadeIn&v=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29%2C50:302b63%2C100:24243e&height=200&section=header&text=KSV&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Security%20Engineer%20%7C%20Cybersecurity%20and%20Blockchain&descColor=a78bfa&descSize=20&descAlignY=58&animation=fadeIn&v=3" />
 
 </div>
 
@@ -148,10 +148,10 @@ IIEST Shibpur — Howrah, India
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://www.linkedin.com/in/vamsi-i29)
-[![X / Twitter](https://img.shields.io/badge/X_Twitter-0f0c29?style=for-the-badge&logo=x&logoColor=A78BFA)](https://x.com/Vamsi_i29)
-[![Telegram](https://img.shields.io/badge/Telegram-0f0c29?style=for-the-badge&logo=telegram&logoColor=A78BFA)](https://t.me/Vamsii29)
-[![Website](https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=googlechrome&logoColor=A78BFA)](https://your-website.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamsi-i29)
+[![X / Twitter](https://img.shields.io/badge/X_Twitter-0f0c29?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Vamsi_i29)
+[![Telegram](https://img.shields.io/badge/Telegram-0f0c29?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vamsii29)
+[![Website](https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-website.com)
 
 <br />
 
@@ -184,7 +184,7 @@ IIEST Shibpur — Howrah, India
 <div align="center">
 
 <!-- Dynamic header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29%2C50:302b63%2C100:24243e&height=200&section=header&text=KSV&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Security%20Engineer%20%7C%20Cybersecurity%20%26%20Blockchain&descColor=a78bfa&descSize=20&descAlignY=58&animation=fadeIn&v=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29%2C50:302b63%2C100:24243e&height=200&section=header&text=KSV&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Security%20Engineer%20%7C%20Cybersecurity%20and%20Blockchain&descColor=a78bfa&descSize=20&descAlignY=58&animation=fadeIn&v=3" />
 
 </div>
 
@@ -279,10 +279,10 @@ Ich studiere aktuell **M.Sc. Informatik** an der **Universität Bern**. Mein Sch
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://www.linkedin.com/in/vamsi-i29)
-[![X / Twitter](https://img.shields.io/badge/X_Twitter-0f0c29?style=for-the-badge&logo=x&logoColor=A78BFA)](https://x.com/Vamsi_i29)
-[![Telegram](https://img.shields.io/badge/Telegram-0f0c29?style=for-the-badge&logo=telegram&logoColor=A78BFA)](https://t.me/Vamsii29)
-[![Website](https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=googlechrome&logoColor=A78BFA)](https://your-website.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamsi-i29)
+[![X / Twitter](https://img.shields.io/badge/X_Twitter-0f0c29?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Vamsi_i29)
+[![Telegram](https://img.shields.io/badge/Telegram-0f0c29?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vamsii29)
+[![Website](https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-website.com)
 
 <br />
 
