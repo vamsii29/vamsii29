@@ -1,7 +1,13 @@
+<div align="right">
+  <a href="#english"><b>🇬🇧 English</b></a> &nbsp;|&nbsp; <a href="#deutsch"><b>🇩🇪 Deutsch</b></a>
+</div>
+
+<a id="english"></a>
+
 <div align="center">
 
 <!-- Dynamic header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=KSV&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Security%20Engineer%20%7C%20Cybersecurity%20%26%20Blockchain&descColor=a78bfa&descSize=20&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29%2C50:302b63%2C100:24243e&height=200&section=header&text=KSV&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Security%20Engineer%20%7C%20Cybersecurity%20%26%20Blockchain&descColor=a78bfa&descSize=20&descAlignY=58&animation=fadeIn&v=2" />
 
 </div>
 
@@ -163,7 +169,137 @@ IIEST Shibpur — Howrah, India
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e%2C50:302b63%2C100:0f0c29&height=120&section=footer&animation=fadeIn&v=2" />
 
 </div>
 
+<br><br><br>
+
+<div align="right">
+  <a href="#english"><b>↑ 🇬🇧 English</b></a> &nbsp;|&nbsp; <a href="#deutsch"><b>🇩🇪 Deutsch</b></a>
+</div>
+
+<a id="deutsch"></a>
+
+<div align="center">
+
+<!-- Dynamic header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29%2C50:302b63%2C100:24243e&height=200&section=header&text=KSV&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Security%20Engineer%20%7C%20Cybersecurity%20%26%20Blockchain&descColor=a78bfa&descSize=20&descAlignY=58&animation=fadeIn&v=2" />
+
+</div>
+
+# Hallo 👋, ich bin KSV
+
+![Profilaufrufe](https://komarev.com/ghpvc/?username=ksv&color=a78bfa&style=flat-square&label=Profilaufrufe)
+
+---
+
+## 🌟 Über Mich
+
+Ich studiere aktuell **M.Sc. Informatik** an der **Universität Bern**. Mein Schwerpunkt liegt an der Schnittstelle von **Cybersecurity**, **Blockchain-Infrastruktur** und **verteilten Systemen**.
+
+- 📍 **Standort:** Bern, Schweiz
+- 🔐 **Leitsatz:** *Privacy is a fundamental human right. I build systems that protect it.*
+- 🎯 **Langfristziel:** Aufbau von Finanzinfrastruktur auf der Blockchain — sicher, transparent und privat.
+
+---
+
+## 🚀 Kompetenzen
+
+| Bereich | Technologien |
+|---|---|
+| **Sprachen** | Python, SQL |
+| **Frameworks & Libraries** | FastAPI |
+| **Infrastruktur & DevOps** | Docker, PostgreSQL, Redis |
+| **Tools & Plattformen** | Git, GitHub, Linux, REST APIs |
+| **Cybersecurity** | CompTIA Security+ (In Progress), Auth & Authorization, Cryptography |
+| **Blockchain & Web3** | Blockchain Fundamentals, Decentralized Systems, Smart Contract Concepts |
+
+---
+
+## 📚 Ausbildung
+
+| Abschluss | Institution | Zeitraum |
+|---|---|---|
+| **Master of Science in Computer Science** | Universität Bern, Bern CH | Feb 2024 – Dez 2026 (erwartet) |
+| **B.Tech in Computer Science & Technology** | IIEST Shibpur, Howrah IN | 2019 – 2023 |
+
+**Schwerpunkte:** Cybersecurity · Verteilte Systeme · Blockchain
+
+---
+
+## 💡 Projekte
+
+> Diese sind produktionsnahe Projekte, die ich aktiv aufbaue. Jedes wird erst veröffentlicht, wenn es fertig ist.
+
+| Projekt | Stack | Beschreibung |
+|---|---|---|
+| 🔐 **SecureAuthLab** | Python · FastAPI · JWT · OAuth2 · RBAC | Produktionsreifes Authentifizierungssystem mit JWT-Token-Management, OAuth2-Flows und rollenbasierter Zugriffskontrolle (RBAC). |
+| 🛡️ **SentinelSecToolkit** | Python · Linux · Docker · REST APIs | Sammlung von Sicherheitstools zur Automatisierung von Schwachstellenscans, Log-Analyse und Bedrohungserkennung. |
+| ⛓️ **ChainCore** | Python · Cryptography · Consensus Protocols | Blockchain-Infrastruktur von Grund auf — Implementierung kryptographischer Primitiven und Konsens-Algorithmen. |
+| 💳 **CryptoPayMesh** | Python · Solidity · Web3.py · FastAPI | Krypto-Zahlungsverarbeitungssystem mit Smart-Contract-Integration und dezentraler Architektur. |
+
+---
+
+## 🏆 Zertifizierungen & Ziele
+
+- 📜 **CompTIA Security+** — In Vorbereitung
+- 🎯 Zielregionen für Karriere: Schweiz / Luxemburg / Deutschland
+- 🏗️ Fokus auf Security-Startups und Blockchain-Infrastruktur
+
+---
+
+## ⚡ Daran arbeite ich gerade
+
+- 🔐 Entwicklung von **SecureAuthLab** — JWT, OAuth2, RBAC Authentifizierungssystem
+- 📚 Vorbereitung auf **CompTIA Security+**
+- 🎓 MSc-Studium in Cybersecurity & Verteilte Systeme @ Universität Bern
+- 🛡️ Planung von **SentinelSecToolkit** — Security-Tooling-Suite
+
+---
+
+## 📈 GitHub-Statistiken
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ksv&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksv&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ksv&theme=midnight-purple&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🤝 Kontakt
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://www.linkedin.com/in/vamsi-i29)
+[![X / Twitter](https://img.shields.io/badge/X_Twitter-0f0c29?style=for-the-badge&logo=x&logoColor=A78BFA)](https://x.com/Vamsi_i29)
+[![Telegram](https://img.shields.io/badge/Telegram-0f0c29?style=for-the-badge&logo=telegram&logoColor=A78BFA)](https://t.me/Vamsii29)
+[![Website](https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=googlechrome&logoColor=A78BFA)](https://your-website.com)
+
+<br />
+
+📫 **E-Mail:** [vamsi-i29@proton.me](mailto:vamsi-i29@proton.me) · 📱 **Mobil:** +41 783244342
+
+> *Wenn du etwas Ernsthaftes in Security oder Blockchain aufbaust — ich bin der richtige Ansprechpartner.*
+
+<br />
+
+*„Keep exploring, keep building – the best is yet to come."*
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e%2C50:302b63%2C100:0f0c29&height=120&section=footer&animation=fadeIn&v=2" />
+
+</div>
