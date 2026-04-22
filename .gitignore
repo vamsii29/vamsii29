@@ -1,4 +1,6 @@
-.DS_Store
-node_modules/
-.env
-*.log
+# Ignore everything by default
+*
+
+# Allow only README and gitignore
+!README.md
+!.gitignore
